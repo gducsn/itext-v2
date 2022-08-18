@@ -8,8 +8,8 @@ import com.create.Create;
 
 public class App {
 
-	private static String path_invoice = "/Users/gducsn/Desktop/fattura.pdf";
-	private static String path_resume = "/Users/gducsn/Desktop/resume.pdf";
+	private static String path_invoice = "/<..>/fattura.pdf";
+	private static String path_resume = "<..>/resume.pdf";
 
 	public static void main(String[] args) throws IOException {
 		
